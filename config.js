@@ -40,8 +40,8 @@ global.owner = [
   ['595992611272']
 ];
 
-global.suittag = ['973462789'];
-global.prems = ['51995386439'];
+global.suittag = ['51986787580'];
+global.prems = ['51973462789'];
 
 global.packname = 'Sticker';
 global.author = 'The Mystic - Bot';
